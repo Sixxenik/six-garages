@@ -4,8 +4,7 @@
 # Installation 
 1. Put six-garages in your resources folder
 2. Add ensure six-garages to server.cfg
-3. If you want to 
-3.1 delete owned_vehicles table from your database and add owned_vehicles.sql to your database
+3. delete owned_vehicles table from your database and add owned_vehicles.sql to your database
 4. Add garages.sql to your database
 5. You need to add your own option for opening menu, there is an export on client ready to checking if player is in zone.
 
