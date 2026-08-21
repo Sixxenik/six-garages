@@ -1,5 +1,6 @@
 # six-garages
- 
+
+ Old version of my garages, no custom ui, and might have some minor bugs, paid version available on my tebex (SOON)
 
 # Installation 
 1. Put six-garages in your resources folder
